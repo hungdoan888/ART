@@ -1,5 +1,5 @@
 # ART
-Use ML to automatically correlate ground truth with radar data
+Automatic Reconstruction Tool (ART) that uses ML to automatically correlate ground truth with radar data
 
 # Motivation
 Eliminate manually associating truth data to radar by using machine learning
